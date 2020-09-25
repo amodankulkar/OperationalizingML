@@ -1,0 +1,34 @@
+2020-09-24 21:30:27.968 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package azureml-train-automl missing from dependencies file.
+2020-09-24 21:30:28.979 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: azureml-train-automl==1.14.0.*
+2020-09-24 21:30:28.979 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package pandas missing from dependencies file.
+2020-09-24 21:30:28.979 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: pandas==0.25.1
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package psutil missing from dependencies file.
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: psutil>5.0.0,<6.0.0
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package scikit-learn missing from dependencies file.
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: scikit-learn==0.22.1
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package numpy missing from dependencies file.
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: numpy~=1.18.0
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package py-xgboost missing from dependencies file.
+2020-09-24 21:30:28.980 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: py-xgboost<=0.90
+2020-09-24 21:30:28.981 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package inference-schema missing from dependencies file.
+2020-09-24 21:30:28.981 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package fbprophet missing from dependencies file.
+2020-09-24 21:30:28.981 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: fbprophet==0.5
+2020-09-24 21:30:28.982 - INFO - 65488 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package setuptools-git missing from dependencies file.
+2020-09-24 21:30:32.243 - INFO - 65488 - azureml.train.automl._azureautomlclient._validate_input:614 - Validation service found the data has no errors.
+2020-09-24 22:43:04.055 - INFO - 65488 - azureml.automl.runtime.distributed.utilities.horovod_initialized:58 - Horovod not found in current environment. Distribution via Horovod will be disabled.
+2020-09-24 22:43:04.508 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 22:43:04.509 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
+2020-09-24 22:43:47.570 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 22:43:47.570 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
+2020-09-24 22:59:20.740 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 22:59:20.740 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
+2020-09-24 22:59:20.750 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 22:59:20.750 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
+2020-09-24 23:01:53.050 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 23:01:53.050 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
+2020-09-24 23:01:53.052 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 23:01:53.053 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
+2020-09-24 23:02:36.849 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 23:02:36.849 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
+2020-09-24 23:02:36.855 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping enabled: False
+2020-09-24 23:02:36.855 - INFO - 65488 - azureml.automl.runtime.featurization.data_transformer._logger_wrapper:81 - Feature sweeping timeout: 86400
