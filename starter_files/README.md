@@ -96,6 +96,6 @@ Also see for published pipeline overview with status as "Active"
 ## Screen Recording
 [Download](https://drive.google.com/uc?export=view&id=1mco7Q71FgNG3464CrUh4IhPO2-kyGoLY)
 
-[Watch] (https://drive.google.com/file/d/1mco7Q71FgNG3464CrUh4IhPO2-kyGoLY/view?usp=sharing)
+[Watch](https://drive.google.com/file/d/1mco7Q71FgNG3464CrUh4IhPO2-kyGoLY/view?usp=sharing)
 
 
