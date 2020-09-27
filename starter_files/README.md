@@ -6,7 +6,8 @@
 *TODO:* Write an overview to your project.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+![Alt text](./images/Flow_Diagram.svg)
+<img src="./images/Flow_Diagram.svg">
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
