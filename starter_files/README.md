@@ -88,7 +88,12 @@ Also see for published pipeline overview with status as "Active"
 ![Alt text](./images/pipeline_active.png)
 
 
-20. We can also see its scheduled run.
+20. See Use RunDetails widget shows the step runs.
+![Alt text](./images/runDetails_01.png)
+
+![Alt text](./images/runDetails_02.png)
+ 
+21. We can also see its scheduled run.
 ![Alt text](./images/pipeline_schedule.png)
 
 
@@ -98,4 +103,7 @@ Also see for published pipeline overview with status as "Active"
 
 [Watch](https://drive.google.com/file/d/1mco7Q71FgNG3464CrUh4IhPO2-kyGoLY/view?usp=sharing)
 
-
+## Future Improvements
+The project can be improved by taking following steps:
+1. Incorporating Hyperdrive which offers a little more flexibility rather than strict AutoML
+2. Increasing the Runtime of AutoML so that more number of models can be run
