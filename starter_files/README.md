@@ -96,6 +96,18 @@ Also see for published pipeline overview with status as "Active"
 21. We can also see its scheduled run.
 ![Alt text](./images/pipeline_schedule.png)
 
+22. We can see swagger server with our swagger.json here:
+![Alt text](./images/swagger.png)
+
+23. After we runserve.py, we can see swagger.jsonon localhost:8000:
+![Alt text](./images/serve.png)
+
+24. If we runapache bench to see performance statistics,output looks like this:
+![Alt text](./images/apache_bench_1.png)
+
+![Alt text](./images/apache_bench_2.png)
+
+
 
 
 ## Screen Recording
